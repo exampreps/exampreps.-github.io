@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ExamPreps</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #1a73e8;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+      max-width: 700px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to ExamPreps</h1>
+  <p>
+    ExamPreps is a website where we compile study materials
+    for competitive exams like JEE, NEET, NDA, MHT CET,
+    WBJEE and many more.
+  </p>
+</body>
+</html>
